@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 40,
+        "show_breadcrumbs": true,
+        "show_page_content": true
+      }
+    },
+    "16572891308791841f": {
+      "type": "index-icons-with-text",
+      "blocks": {
+        "1657289129853b7cba-0": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "scale-balanced",
+            "title": "EQUAL SPLIT",
+            "content": "<p>50% of earnings are for the artist, paid in XRP. This includes royalties.<\/p>",
+            "link": ""
+          }
+        },
+        "1657289129853b7cba-1": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "paintbrush",
+            "title": "CREATIVE FREEDOM",
+            "content": "<p>Artists have a lot of freedom in creating the artworks. They get to create what a MoonBoiii means to them!<\/p>",
+            "link": ""
+          }
+        },
+        "1657289129853b7cba-2": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "umbrella-beach",
+            "title": "HASSLE FREE",
+            "content": "<p>Focus on the art, we'll take care of minting, marketing and holder rewarding.<\/p>",
+            "link": ""
+          }
+        },
+        "a01b1d23-68e1-48d7-9278-ec4eee7ca9b7": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "chart-line",
+            "title": "GAIN EXPOSURE",
+            "content": "<p>Content text<\/p>",
+            "link": ""
+          }
+        },
+        "30cc21cd-aab8-4a1b-b84e-95b24d71874e": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "sack-dollar",
+            "title": "FUNDING",
+            "content": "<p>We can supply funding to cover assets, rendering, and more to bring the ideas to life.<\/p>",
+            "link": ""
+          }
+        },
+        "5fbc2386-2fdc-429a-b932-eef7d1555b1e": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "users-line",
+            "title": "BUILD NETWORK",
+            "content": "<p>Besides connecting with a community of collectors and fans, artists can also use our platform to collaborate with other artists and brands.<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657289129853b7cba-0",
+        "1657289129853b7cba-1",
+        "1657289129853b7cba-2",
+        "a01b1d23-68e1-48d7-9278-ec4eee7ca9b7",
+        "30cc21cd-aab8-4a1b-b84e-95b24d71874e",
+        "5fbc2386-2fdc-429a-b932-eef7d1555b1e"
+      ],
+      "settings": {
+        "title": "MANY BENEFITS",
+        "subtitle": "Why apply as artist?",
+        "icon_color": "#000000"
+      }
+    },
+    "1657289136f16d3b8b": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "16572891364281e008-1": {
+          "type": "image",
+          "settings": {
+            "color_image_overlay": "#000000",
+            "image_overlay_opacity": 40,
+            "text_color": "#ffffff",
+            "text_alignment": "center center",
+            "slide_title": "Image slide",
+            "subheading": "Tell your brand's story through images",
+            "button_style": "primary",
+            "button_label": "",
+            "button_link": "",
+            "button_style_2": "primary",
+            "button_label_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "16572891364281e008-1"
+      ],
+      "settings": {
+        "slideshow_width": "full",
+        "slideshow_height": "adapt",
+        "slideshow_mobile_height": "adapt",
+        "text_size": "medium",
+        "show_buttons": true,
+        "show_dots": true,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "removeBottomMargin": false
+      }
+    },
+    "16572891445ca8e851": {
+      "type": "page-contact",
+      "blocks": {
+        "8ddbb26d-b25f-4f01-81ef-188d92cb20fd": {
+          "type": "custom_row",
+          "settings": {
+            "field_name": "Portfolio",
+            "filed_type": "input",
+            "required_field": true
+          }
+        }
+      },
+      "block_order": [
+        "8ddbb26d-b25f-4f01-81ef-188d92cb20fd"
+      ],
+      "settings": {
+        "section_bg_color": "",
+        "section_color": "",
+        "bg_image_opacity": 70,
+        "section_title": "Tell us about yourself",
+        "subtitle": "",
+        "subheading": "<p>and please provide a link to your portfolio.<\/p>",
+        "button_style": "primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16572891308791841f",
+    "1657289136f16d3b8b",
+    "16572891445ca8e851"
+  ]
+}

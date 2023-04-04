@@ -1,0 +1,149 @@
+{
+  "sections": {
+    "main": {
+      "type": "faq-section",
+      "blocks": {
+        "83f4eb6f-6a97-43f5-bca7-5159c5efadb4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Heading"
+          }
+        },
+        "f75f86b5-0509-4822-87f4-65fa0ee1e1df": {
+          "type": "question",
+          "settings": {
+            "question": "Question title",
+            "answer": "<p>Answer text<\/p>"
+          }
+        },
+        "427e8249-42a3-4443-a393-238a4fd6c1f6": {
+          "type": "question",
+          "settings": {
+            "question": "Question title",
+            "answer": "<p>Answer text<\/p>"
+          }
+        },
+        "943f91fa-624f-45f0-830e-8b0b43af26ce": {
+          "type": "question",
+          "settings": {
+            "question": "Question title",
+            "answer": "<p>Answer text<\/p>"
+          }
+        },
+        "5a3aa408-e251-41be-b5c9-0998989dd97f": {
+          "type": "heading",
+          "settings": {
+            "heading": "Heading"
+          }
+        },
+        "a0383d69-bb77-4070-96e7-48c4059b1c1e": {
+          "type": "question",
+          "settings": {
+            "question": "Question title",
+            "answer": "<p>Answer text<\/p>"
+          }
+        },
+        "68c1bd80-34cc-435d-8f67-3bd90c0788ee": {
+          "type": "question",
+          "settings": {
+            "question": "Question title",
+            "answer": "<p>Answer text<\/p>"
+          }
+        },
+        "b2fe745f-356c-4e71-a4c6-9526c2ba1f9b": {
+          "type": "question",
+          "settings": {
+            "question": "Question title",
+            "answer": "<p>Answer text<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "83f4eb6f-6a97-43f5-bca7-5159c5efadb4",
+        "f75f86b5-0509-4822-87f4-65fa0ee1e1df",
+        "427e8249-42a3-4443-a393-238a4fd6c1f6",
+        "943f91fa-624f-45f0-830e-8b0b43af26ce",
+        "5a3aa408-e251-41be-b5c9-0998989dd97f",
+        "a0383d69-bb77-4070-96e7-48c4059b1c1e",
+        "68c1bd80-34cc-435d-8f67-3bd90c0788ee",
+        "b2fe745f-356c-4e71-a4c6-9526c2ba1f9b"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_heading": true,
+        "show_page_content": true,
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 40
+      }
+    },
+    "1657289028fa52a62b": {
+      "type": "featured-blocks",
+      "blocks": {
+        "1657289028d2013e24-0": {
+          "type": "block",
+          "settings": {
+            "heading": "Block title",
+            "content": "<p>Default text<\/p>",
+            "url": ""
+          }
+        },
+        "1657289028d2013e24-1": {
+          "type": "block",
+          "settings": {
+            "heading": "Block title",
+            "content": "<p>Default text<\/p>",
+            "url": ""
+          }
+        },
+        "1657289028d2013e24-2": {
+          "type": "block",
+          "settings": {
+            "heading": "Block title",
+            "content": "<p>Default text<\/p>",
+            "url": ""
+          }
+        },
+        "1657289028d2013e24-3": {
+          "type": "block",
+          "settings": {
+            "heading": "Block title",
+            "content": "<p>Default text<\/p>",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657289028d2013e24-0",
+        "1657289028d2013e24-1",
+        "1657289028d2013e24-2",
+        "1657289028d2013e24-3"
+      ],
+      "settings": {
+        "layout": "grid",
+        "title": "Heading",
+        "subtitle": "Subheading",
+        "image_style": "circle",
+        "mobile_carousel": false
+      }
+    },
+    "1657288909146458ee": {
+      "type": "newsletter",
+      "settings": {
+        "section_bg_color": "",
+        "section_color": "",
+        "bg_image_opacity": 70,
+        "section_title": "Subscribe to our newsletter",
+        "subtitle": "",
+        "subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+        "button_style": "primary",
+        "showFormLabels": true,
+        "removeBottomMargin": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1657289028fa52a62b",
+    "1657288909146458ee"
+  ]
+}

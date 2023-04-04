@@ -1,0 +1,258 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 39,
+        "show_breadcrumbs": true,
+        "show_page_content": false
+      }
+    },
+    "9bfd4a0b-cd36-47e7-9ce4-490ffd5e45b2": {
+      "type": "slideshow",
+      "blocks": {
+        "3281c8e7-9c34-49ed-975e-ab77a3bec555": {
+          "type": "video",
+          "settings": {
+            "video": "https:\/\/www.youtube.com\/watch?v=vE-YR3-Sofk",
+            "html5_video_url": "",
+            "color_video_overlay": "#000000",
+            "text_color": "#ffffff",
+            "video_overlay_opacity": 0,
+            "text_alignment": "center center",
+            "slide_title": "",
+            "subheading": "",
+            "button_style": "primary",
+            "button_label": "",
+            "button_link": "",
+            "button_style_2": "primary",
+            "button_label_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "3281c8e7-9c34-49ed-975e-ab77a3bec555"
+      ],
+      "settings": {
+        "slideshow_width": "full",
+        "slideshow_height": "adapt",
+        "slideshow_mobile_height": "adapt",
+        "text_size": "medium",
+        "show_buttons": false,
+        "show_dots": false,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "removeBottomMargin": true
+      }
+    },
+    "4af5d69c-8dd3-4761-9eae-703aea18f573": {
+      "type": "featured-blocks",
+      "blocks": {
+        "template--17710067843348__4af5d69c-8dd3-4761-9eae-703aea18f573-16747767592caf2480-0": {
+          "type": "block",
+          "settings": {
+            "heading": "iPhones",
+            "content": "<p>And other electronics.<\/p>",
+            "image": "shopify:\/\/shop_images\/iphone-14-pro-model-unselect-gallery-2-202209_GEO_EMEA.jpg",
+            "url": ""
+          }
+        },
+        "template--17710067843348__4af5d69c-8dd3-4761-9eae-703aea18f573-16747767592caf2480-1": {
+          "type": "block",
+          "settings": {
+            "heading": "Physical jewelry",
+            "content": "<p>Default text<\/p>",
+            "image": "shopify:\/\/shop_images\/cj5blbCz.jpg",
+            "url": ""
+          }
+        },
+        "template--17710067843348__4af5d69c-8dd3-4761-9eae-703aea18f573-16747767592caf2480-2": {
+          "type": "block",
+          "settings": {
+            "heading": "Video NFT displays",
+            "content": "<p>Show of your NFTs in your home or office.<\/p>",
+            "image": "shopify:\/\/shop_images\/1_YVqIQo-uHUB2ndbXBWZOfg.gif",
+            "url": ""
+          }
+        },
+        "template--17710067843348__4af5d69c-8dd3-4761-9eae-703aea18f573-16747767592caf2480-3": {
+          "type": "block",
+          "settings": {
+            "heading": "PS5",
+            "content": "<p>And more....<\/p>",
+            "image": "shopify:\/\/shop_images\/PS5-normaal.jpg",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17710067843348__4af5d69c-8dd3-4761-9eae-703aea18f573-16747767592caf2480-0",
+        "template--17710067843348__4af5d69c-8dd3-4761-9eae-703aea18f573-16747767592caf2480-1",
+        "template--17710067843348__4af5d69c-8dd3-4761-9eae-703aea18f573-16747767592caf2480-2",
+        "template--17710067843348__4af5d69c-8dd3-4761-9eae-703aea18f573-16747767592caf2480-3"
+      ],
+      "settings": {
+        "layout": "grid",
+        "title": "PHYSICAL ITEMS",
+        "subtitle": "Prize ideas",
+        "image_style": "square",
+        "mobile_carousel": true
+      }
+    },
+    "8e8545da-f8d1-46a7-a773-abd121a19c6c": {
+      "type": "featured-blocks",
+      "blocks": {
+        "template--17710067843348__8e8545da-f8d1-46a7-a773-abd121a19c6c-1675821273f8689e3e-0": {
+          "type": "block",
+          "settings": {
+            "heading": "Block title",
+            "content": "<p>Default text<\/p>",
+            "image": "shopify:\/\/shop_images\/merch.jpg",
+            "url": ""
+          }
+        },
+        "template--17710067843348__8e8545da-f8d1-46a7-a773-abd121a19c6c-1675821273f8689e3e-1": {
+          "type": "block",
+          "settings": {
+            "heading": "Block title",
+            "content": "<p>Default text<\/p>",
+            "image": "shopify:\/\/shop_images\/550x385.jpg",
+            "url": ""
+          }
+        },
+        "template--17710067843348__8e8545da-f8d1-46a7-a773-abd121a19c6c-1675821273f8689e3e-2": {
+          "type": "block",
+          "settings": {
+            "heading": "Block title",
+            "content": "<p>Default text<\/p>",
+            "url": ""
+          }
+        },
+        "template--17710067843348__8e8545da-f8d1-46a7-a773-abd121a19c6c-1675821273f8689e3e-3": {
+          "type": "block",
+          "settings": {
+            "heading": "Block title",
+            "content": "<p>Default text<\/p>",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17710067843348__8e8545da-f8d1-46a7-a773-abd121a19c6c-1675821273f8689e3e-0",
+        "template--17710067843348__8e8545da-f8d1-46a7-a773-abd121a19c6c-1675821273f8689e3e-1",
+        "template--17710067843348__8e8545da-f8d1-46a7-a773-abd121a19c6c-1675821273f8689e3e-2",
+        "template--17710067843348__8e8545da-f8d1-46a7-a773-abd121a19c6c-1675821273f8689e3e-3"
+      ],
+      "settings": {
+        "layout": "grid",
+        "title": "",
+        "subtitle": "",
+        "image_style": "square",
+        "mobile_carousel": true
+      }
+    },
+    "8a5d22e1-3ad1-4c70-8608-5def9f672bc8": {
+      "type": "index-icons-with-text",
+      "blocks": {
+        "template--17710067843348__8a5d22e1-3ad1-4c70-8608-5def9f672bc8-1675008807c8c1594e-0": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "custom_icon": "star",
+            "image": "shopify:\/\/shop_images\/merch_20658740-f565-41f3-8368-1341e16efc87.jpg",
+            "title": "FREE MERCH",
+            "content": "<p>Content text<\/p>",
+            "link": ""
+          }
+        },
+        "template--17710067843348__8a5d22e1-3ad1-4c70-8608-5def9f672bc8-1675008807c8c1594e-1": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "",
+            "image": "shopify:\/\/shop_images\/xrp_logo_black.png",
+            "title": "XRP",
+            "content": "<p>Content text<\/p>",
+            "link": ""
+          }
+        },
+        "template--17710067843348__8a5d22e1-3ad1-4c70-8608-5def9f672bc8-1675008807c8c1594e-2": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "coins",
+            "title": "OTHER COINS",
+            "content": "<p>Content text<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17710067843348__8a5d22e1-3ad1-4c70-8608-5def9f672bc8-1675008807c8c1594e-0",
+        "template--17710067843348__8a5d22e1-3ad1-4c70-8608-5def9f672bc8-1675008807c8c1594e-1",
+        "template--17710067843348__8a5d22e1-3ad1-4c70-8608-5def9f672bc8-1675008807c8c1594e-2"
+      ],
+      "settings": {
+        "title": "DIGITAL PRIZES",
+        "subtitle": "",
+        "icon_color": "#000000"
+      }
+    },
+    "8057889b-d2de-49ca-84b2-656114cad3a0": {
+      "type": "index-countdown-timer",
+      "settings": {
+        "overlay_behaviour": "full",
+        "content_side": "right",
+        "image": "shopify:\/\/shop_images\/iTbagTheNoobs_Astronaut_riding_rocket_on_outside_travelling_thr_b1f132c5-c00f-4c5f-a3d2-e70d8e5eaecf.png",
+        "title": "Next lottery draw",
+        "subtitle": "Subtitle",
+        "content": "<p>Content text<\/p>",
+        "timer_date": "Feb 28, 2023 23:59:59",
+        "timer_behaviour": "use_current_day",
+        "button_style": "primary",
+        "button_text": "Button",
+        "button_url": "",
+        "text_color": "#000000",
+        "countdown_color": "#000000",
+        "color_image_overlay": "",
+        "image_overlay_opacity": 70
+      }
+    },
+    "6d09cb8a-87a3-4265-a4a1-ee15f06e777a": {
+      "type": "rich-text",
+      "settings": {
+        "content_width": "75",
+        "bg_color": "#212121",
+        "section_color": "#ffffff",
+        "rte_icon_width": 215,
+        "section_title": "HOW DOES IT WORK?",
+        "subtitle": "",
+        "text": "<p>We understand that the world of non-fungible tokens (NFTs) can be complex and intimidating for those who are new to the field. That's why we've designed our system to be as user-friendly and straightforward as possible.<\/p><p>When you purchase one of our NFTs, you are not just acquiring a stunning piece of digital art, you are also receiving a ticket to participate in our lottery giveaways. These giveaways feature a diverse array of both physical and digital prizes, with each draw featuring a different number of winners depending on the specific prizes available. This allows for the possibility of one grand prize for a single winner, or multiple smaller prizes for a larger pool of winners.<\/p><p>We achieve this by forming a collective and working closely with talented artists from around the globe. This approach allows us to continuously mint limited edition artwork collectibles, while maintaining the highest level of quality and providing a sufficient quantity to ensure a constant flow of exciting new offerings for our customers.<\/p><p>To participate in our lottery giveaways, simply hold your NFT in a compatible wallet and wait for the next draw. The winners will be selected at random and will be notified via the email provided at the time of purchase.<\/p>",
+        "text_size": "medium"
+      }
+    },
+    "08048b97-ab54-4b07-91ee-065a94ed4805": {
+      "type": "feature-row",
+      "settings": {
+        "section_width": "page-width",
+        "image": "shopify:\/\/shop_images\/pie_chart_2.png",
+        "layout": "left",
+        "title": "50 \/ 30 sweetspot",
+        "text": "<p>Earnings from NFT sales, royalties, and merch sales will build and maintain our community pool, which allows us to host lotteries with crazy prizes on a regular basis.<br\/><br\/>Revenue generated from NFT sales, royalties, and merchandise will be utilized to establish and sustain a community pool. This will enable us to conduct frequent lotteries offering exceptional prizes. We are committed to constantly identifying and partnering with skilled artists to bring a wide range of unique and diverse collections to our platform. These smaller collections will ensure rarity and exclusivity.<\/p><p>Furthermore, each NFT serves as a number of entries in the lottery draws, providing added value to our community.<\/p>",
+        "button_style": "primary",
+        "button_label": "",
+        "button_link": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9bfd4a0b-cd36-47e7-9ce4-490ffd5e45b2",
+    "4af5d69c-8dd3-4761-9eae-703aea18f573",
+    "8e8545da-f8d1-46a7-a773-abd121a19c6c",
+    "8a5d22e1-3ad1-4c70-8608-5def9f672bc8",
+    "8057889b-d2de-49ca-84b2-656114cad3a0",
+    "6d09cb8a-87a3-4265-a4a1-ee15f06e777a",
+    "08048b97-ab54-4b07-91ee-065a94ed4805"
+  ]
+}

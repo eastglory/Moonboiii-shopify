@@ -1,0 +1,17 @@
+{
+  "sections": {
+    "main": {
+      "type": "cart-template",
+      "settings": {
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 40,
+        "show_breadcrumbs": true,
+        "show_shipping_estimator": false,
+        "shipping_estimator_default_country": "United States"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "sections": {
+    "main": {
+      "type": "list-collections-template",
+      "blocks": {
+        "b9cf3e4f-f2b5-4e74-8515-cceae9555a03": {
+          "type": "collection",
+          "settings": {
+            "collection": "merch"
+          }
+        },
+        "3ed8325e-2d3e-44c0-9805-f76bad83fae0": {
+          "type": "collection",
+          "settings": {
+            "collection": "limited"
+          }
+        },
+        "e2738d73-820e-424a-82c5-17c79ca8a320": {
+          "type": "collection",
+          "settings": {
+            "collection": "accesories"
+          }
+        }
+      },
+      "block_order": [
+        "b9cf3e4f-f2b5-4e74-8515-cceae9555a03",
+        "3ed8325e-2d3e-44c0-9805-f76bad83fae0",
+        "e2738d73-820e-424a-82c5-17c79ca8a320"
+      ],
+      "settings": {
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 40,
+        "title": "",
+        "show_breadcrumbs": true,
+        "collection_grid_display": "full_image",
+        "collection_image_height": 300,
+        "display_type": "selected",
+        "sort": "alphabetical",
+        "grid": 3,
+        "grid_mobile": "1"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

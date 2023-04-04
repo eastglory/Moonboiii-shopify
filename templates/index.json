@@ -1,0 +1,856 @@
+{
+  "sections": {
+    "1657285967afba02c0": {
+      "type": "slideshow",
+      "blocks": {
+        "1657285966fbda115a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.jpg",
+            "color_image_overlay": "#000000",
+            "image_overlay_opacity": 40,
+            "text_color": "#ffffff",
+            "text_alignment": "left center",
+            "slide_title": "MoonBoiii Collective",
+            "subheading": "Join us in shaping the future of NFT art collectibles. Explore a diverse range of talented artists and their unique creations, from emerging names to industry veterans. Help us become the first legal NFT Casino\/Lottery, and take advantage of the limitless possibilities in the NFT and crypto world.",
+            "button_style": "primary",
+            "button_label": "Learn more",
+            "button_link": "shopify:\/\/pages\/about",
+            "button_style_2": "white",
+            "button_label_2": "Shop our merch",
+            "button_link_2": "shopify:\/\/collections\/merch"
+          }
+        },
+        "1657285966fbda115a-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MoonBoiii_photorealistic_astronaut_standing_on_moon_watching_ea_ad4f33b1-2b1c-45c7-a53e-1c3413c41126.png",
+            "color_image_overlay": "#000000",
+            "image_overlay_opacity": 40,
+            "text_color": "#ffffff",
+            "text_alignment": "center center",
+            "slide_title": "Image slide",
+            "subheading": "Tell your brand's story through images",
+            "button_style": "primary",
+            "button_label": "",
+            "button_link": "",
+            "button_style_2": "primary",
+            "button_label_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657285966fbda115a-0",
+        "1657285966fbda115a-1"
+      ],
+      "settings": {
+        "slideshow_width": "full",
+        "slideshow_height": "large",
+        "slideshow_mobile_height": "adapt",
+        "text_size": "medium",
+        "show_buttons": true,
+        "show_dots": true,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "removeBottomMargin": false
+      }
+    },
+    "c64b3c3e-3f4c-474c-ad21-e5d31c765f95": {
+      "type": "rich-text",
+      "settings": {
+        "content_width": "100",
+        "bg_color": "",
+        "section_color": "#000000",
+        "rte_icon_width": 30,
+        "section_title": "HELP US DRIVE INNOVATION FOR NFTS.",
+        "subtitle": "THE FUTURE OF digital collectibles",
+        "text": "<p>Discover an innovative, self-sustaining ecosystem where art enthusiasts and collectors can support talented artists by purchasing unique NFTs. As a holder of our NFTs, you are eligible to enter our legally-operating lottery, where you have the chance to win both digital and physical prizes. By joining us, you can play a role in revolutionizing the art world and supporting artists in their pursuit of creativity. <br\/><br\/><strong>Let us legally take care of the rewards, so the artists can focus on what they do best: creating art.<\/strong><\/p>",
+        "text_size": "large"
+      }
+    },
+    "16572860256a3e457c": {
+      "type": "index-icons-with-text",
+      "blocks": {
+        "16572860240fe40332-0": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "dice",
+            "title": "Legal NFT casino",
+            "content": "<p>Join us in our quest to become the first legal NFT lottery\/casino on the XRPL. Help us bring innovation to the world of NFTs and crypto.<\/p>",
+            "link": ""
+          }
+        },
+        "16572860240fe40332-2": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "earth-americas",
+            "title": "Open worldwide",
+            "content": "<p>Open for anyone to join as an artist or collector. We pay all shipping costs for physical prizes through our lottery! <\/p><p><em>*Some countries are unable to receive physical prizes. <\/em><\/p>",
+            "link": ""
+          }
+        },
+        "16572860240fe40332-1": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "palette",
+            "title": "Artist supporting",
+            "content": "<p>Helping a whole range of artists build their name and earn generate income through XRP.<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16572860240fe40332-0",
+        "16572860240fe40332-2",
+        "16572860240fe40332-1"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "icon_color": "rgba(0,0,0,0)"
+      }
+    },
+    "df41accd-d1f2-42a6-8158-46826ab4f3ff": {
+      "type": "rich-text",
+      "settings": {
+        "content_width": "100",
+        "bg_color": "#fd5b2a",
+        "section_color": "#ffffff",
+        "rte_icon": "shopify:\/\/shop_images\/trophy_moonboiii.png",
+        "rte_icon_width": 215,
+        "section_title": "First NFT casino of its kind",
+        "subtitle": "",
+        "text": "<p>By obtaining a <strong>specialized license<\/strong> from a designated authority, we can establish ourselves as the premier<strong> NFT casino<\/strong> on the <strong>XRP Ledger<\/strong>. This allows us to <strong>legally<\/strong> conduct lotteries (among other casino games) for our valued NFT holders, while adhering to regulations and avoiding classification as a security <strong>by not<\/strong> promising guaranteed returns or profits.<\/p>",
+        "text_size": "medium"
+      }
+    },
+    "7e51bc80-de20-43c6-b58e-f106c435906f": {
+      "type": "rich-text",
+      "settings": {
+        "content_width": "75",
+        "bg_color": "",
+        "section_color": "",
+        "rte_icon": "shopify:\/\/shop_images\/xrp_logo_black.png",
+        "rte_icon_width": 100,
+        "section_title": "ON THE XRPL \/\/\/\/\/ FOR THE XRPL",
+        "subtitle": "",
+        "text": "<p>Lightning fast transactions and trading fees at just fractions of a penny, welcome to the new era of NFTs.<\/p>",
+        "text_size": "medium"
+      }
+    },
+    "fdc6cdca-291c-479a-b0f6-e00bbbc29813": {
+      "type": "custom-liquid",
+      "settings": {
+        "section_width": "page-width",
+        "title": "",
+        "subtitle": "",
+        "custom_liquid": "<style>\n  .progress-bar-container {\n    height: 0vh;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .progress-bar {\n    height: 40px;\n    width: 500px;\n    background-color: #ddd;\n    border-radius: 20px;\n    overflow: hidden;\n    position: relative;\n  }\n\n  .progress-bar-fill {\n    height: 100%;\n    background-color: #FD5B2A;\n    border-radius: 20px;\n    transition: width 0.5s ease-in-out;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n  }\n\n  .progress-bar-value {\n    font-size: 20px;\n    color: white;\n  }\n<\/style>\n\n<div class=\"progress-bar-container\">\n  <div class=\"progress-bar\">\n    {% assign percent_complete = 25 %}\n    <div class=\"progress-bar-fill\" style=\"width: {{ percent_complete }}%;\">\n      <div class=\"progress-bar-value\">{{ percent_complete }}%<\/div>\n    <\/div>\n  <\/div>\n<\/div>"
+      }
+    },
+    "2c3358fa-464e-44d7-b388-01ffe105ee31": {
+      "type": "featured-blocks",
+      "blocks": {
+        "template--17710067745044__2c3358fa-464e-44d7-b388-01ffe105ee31-1675041732d82e152d-0": {
+          "type": "block",
+          "settings": {
+            "heading": "RAISE FUNDING",
+            "content": "<p>Through our NFT & merch sales we can raise the capitol to acquire the license.<\/p>",
+            "url": ""
+          }
+        },
+        "template--17710067745044__2c3358fa-464e-44d7-b388-01ffe105ee31-1675041732d82e152d-3": {
+          "type": "block",
+          "settings": {
+            "heading": "GROW COMMUNITY",
+            "content": "<p>Default text<\/p>",
+            "url": ""
+          }
+        },
+        "template--17710067745044__2c3358fa-464e-44d7-b388-01ffe105ee31-1675041732d82e152d-1": {
+          "type": "block",
+          "settings": {
+            "heading": "ENROL MORE ARTISTS",
+            "content": "<p>Default text<\/p>",
+            "url": ""
+          }
+        },
+        "template--17710067745044__2c3358fa-464e-44d7-b388-01ffe105ee31-1675041732d82e152d-2": {
+          "type": "block",
+          "settings": {
+            "heading": "EXPAND TEAM",
+            "content": "<p>Default text<\/p>",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17710067745044__2c3358fa-464e-44d7-b388-01ffe105ee31-1675041732d82e152d-0",
+        "template--17710067745044__2c3358fa-464e-44d7-b388-01ffe105ee31-1675041732d82e152d-3",
+        "template--17710067745044__2c3358fa-464e-44d7-b388-01ffe105ee31-1675041732d82e152d-1",
+        "template--17710067745044__2c3358fa-464e-44d7-b388-01ffe105ee31-1675041732d82e152d-2"
+      ],
+      "settings": {
+        "layout": "grid",
+        "title": "Help us reach our goals",
+        "subtitle": "building on the XRPL",
+        "image_style": "circle",
+        "mobile_carousel": false
+      }
+    },
+    "338b23f0-3d53-4738-b154-4ea86511d54f": {
+      "type": "featured-blocks",
+      "blocks": {
+        "template--17710067745044__338b23f0-3d53-4738-b154-4ea86511d54f-1674777849dfac5da5-0": {
+          "type": "block",
+          "settings": {
+            "heading": "50%",
+            "content": "<p>Half of the earnings go the artist that created the artworks. Providing a nice amount of earnings<\/p>",
+            "image": "shopify:\/\/shop_images\/iTbagTheNoobs_full_body_astronaut_who_is_an_artist_holding_a_pa_ea9ca839-ae22-425e-81f2-0d288493cb9b.png",
+            "url": "shopify:\/\/pages\/artist-application"
+          }
+        },
+        "template--17710067745044__338b23f0-3d53-4738-b154-4ea86511d54f-1674777849dfac5da5-1": {
+          "type": "block",
+          "settings": {
+            "heading": "30%",
+            "content": "<p>Goes to the Community Pool which allows us to do crazy prizes for our NFT holders each month.<\/p>",
+            "image": "shopify:\/\/shop_images\/krzysztof-hepner-aD3_Zf5tfr4-unsplash.jpg",
+            "url": "shopify:\/\/pages\/lottery"
+          }
+        },
+        "56dbd180-9804-4a47-aebf-ecbbafa419d8": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "heading": "10%",
+            "content": "<p>Default text<\/p>",
+            "url": ""
+          }
+        },
+        "template--17710067745044__338b23f0-3d53-4738-b154-4ea86511d54f-1674777849dfac5da5-2": {
+          "type": "block",
+          "settings": {
+            "heading": "20%",
+            "content": "<p>Allows the MoonBoiii team to further development, expand the team, grow our artist base and more.<\/p>",
+            "image": "shopify:\/\/shop_images\/BooseGumps_hyper_realistic_casino_on_the_moon_lit_up_with_light_ec995c98-d6af-45e9-a430-0acdead04f28.png",
+            "url": "shopify:\/\/pages\/about"
+          }
+        }
+      },
+      "block_order": [
+        "template--17710067745044__338b23f0-3d53-4738-b154-4ea86511d54f-1674777849dfac5da5-0",
+        "template--17710067745044__338b23f0-3d53-4738-b154-4ea86511d54f-1674777849dfac5da5-1",
+        "56dbd180-9804-4a47-aebf-ecbbafa419d8",
+        "template--17710067745044__338b23f0-3d53-4738-b154-4ea86511d54f-1674777849dfac5da5-2"
+      ],
+      "settings": {
+        "layout": "grid",
+        "title": "Heading",
+        "subtitle": "Subheading",
+        "image_style": "square",
+        "mobile_carousel": false
+      }
+    },
+    "1657286038f472cbf1": {
+      "type": "index-countdown-timer",
+      "settings": {
+        "overlay_behaviour": "full",
+        "content_side": "left",
+        "image": "shopify:\/\/shop_images\/iTbags_astronaut_on_the_moon_surface_standing_in_the_vast_openn_30d2e0c9-4b09-4843-b2cd-cc2be3f789e4.png",
+        "title": "Till next lottery draw",
+        "subtitle": "Countdown",
+        "content": "<p>*Only open for NFT holders<\/p>",
+        "timer_date": "Feb 28, 2023 23:59:59",
+        "timer_behaviour": "show_zeros",
+        "button_style": "primary",
+        "button_text": "LEARN MORE",
+        "button_url": "shopify:\/\/pages\/lottery",
+        "text_color": "#000000",
+        "countdown_color": "#000000",
+        "color_image_overlay": "#fd5b2a",
+        "image_overlay_opacity": 85
+      }
+    },
+    "dd0c321e-64ed-4ead-ac8b-8239722862f5": {
+      "type": "mosaic",
+      "blocks": {
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_8.gif",
+            "cta_label": "‎",
+            "cta_sublabel": "",
+            "link": "https:\/\/nft.onxrp.com\/launchpad\/details\/moonboiiis\/",
+            "cta_col": 2,
+            "cta_image_height": "medium",
+            "caption_align": "center",
+            "caption_position": "bottom",
+            "caption_size": "h3",
+            "caption_color": "#ffffff"
+          }
+        },
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_7.gif",
+            "cta_label": "‎",
+            "cta_sublabel": "",
+            "link": "https:\/\/sologenic.org\/nfts\/r94DvMaZ7on3EwsCDL554NDApHoEXQM3MK",
+            "cta_col": 4,
+            "cta_image_height": "1",
+            "caption_align": "center",
+            "caption_position": "bottom",
+            "caption_size": "h3",
+            "caption_color": "#ffffff"
+          }
+        },
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Loop.gif",
+            "cta_label": "‎",
+            "cta_sublabel": "",
+            "link": "https:\/\/sologenic.org\/nfts\/rU2zf4bwruhNUctbjUR51qEh3rwfXufGXk",
+            "cta_col": 4,
+            "cta_image_height": "1",
+            "caption_align": "center",
+            "caption_position": "bottom",
+            "caption_size": "h3",
+            "caption_color": "#ffffff"
+          }
+        },
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GIF_raw_2_68b648b4-066a-4e47-adff-7960117a79e2.gif",
+            "cta_label": "‎",
+            "cta_sublabel": "",
+            "link": "https:\/\/sologenic.org\/nfts\/rEgUiA4Sgh5dx9EeFm4czw19mLZpNYBTqu",
+            "cta_col": 2,
+            "cta_image_height": "medium",
+            "caption_align": "center",
+            "caption_position": "bottom",
+            "caption_size": "h3",
+            "caption_color": "#ffffff"
+          }
+        },
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/main.gif",
+            "cta_label": "‎",
+            "cta_sublabel": "",
+            "link": "https:\/\/sologenic.org\/nfts\/rYiBTucXMyyygNYSQDD67nCy4JKVYtxSw",
+            "cta_col": 2,
+            "cta_image_height": "medium",
+            "caption_align": "center",
+            "caption_position": "bottom",
+            "caption_size": "h3",
+            "caption_color": "#ffffff"
+          }
+        },
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_5.gif",
+            "cta_label": "‎",
+            "cta_sublabel": "",
+            "link": "https:\/\/sologenic.org\/nfts\/rnBz4Jr9vcBgyoQnmpnsMbuqkTY3UgQLDv",
+            "cta_col": 2,
+            "cta_image_height": "medium",
+            "caption_align": "center",
+            "caption_position": "bottom",
+            "caption_size": "h3",
+            "caption_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-0",
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-1",
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-2",
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-3",
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-4",
+        "template--17710067745044__dd0c321e-64ed-4ead-ac8b-8239722862f5-16747753458e64beaa-5"
+      ],
+      "settings": {
+        "title": "POPULAR COLLECTIONS",
+        "subtitle": "Check out our mints",
+        "use_stacked_layout": false,
+        "use_lightbox": false,
+        "overlay_opacity": 0,
+        "overlay_color": "#000000",
+        "gutter_width": "22",
+        "title_transform": "uppercase",
+        "hover_animation": "zoom-in",
+        "use_mobile_redability": true,
+        "removeBottomMargin": false
+      }
+    },
+    "1657285979c825b800": {
+      "type": "featured-products",
+      "blocks": {
+        "16572859799c51da7c-0": {
+          "type": "collection",
+          "settings": {
+            "heading": "XRP Classics",
+            "collection_handle": "merch",
+            "max_products_count": 40
+          }
+        },
+        "53f8bd3c-52a7-4b7f-98bd-c67b70d97d98": {
+          "type": "collection",
+          "settings": {
+            "heading": "Limited Editons",
+            "collection_handle": "limited",
+            "max_products_count": 40
+          }
+        },
+        "785cfe89-b234-4266-be24-6e5051622aa2": {
+          "type": "collection",
+          "settings": {
+            "heading": "Accesories",
+            "collection_handle": "accesories",
+            "max_products_count": 40
+          }
+        }
+      },
+      "block_order": [
+        "16572859799c51da7c-0",
+        "53f8bd3c-52a7-4b7f-98bd-c67b70d97d98",
+        "785cfe89-b234-4266-be24-6e5051622aa2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "Browse our merch",
+        "navigation_style": "large",
+        "show_vendor": false,
+        "grid": 5,
+        "grid_mobile": "1",
+        "enable_carousel": true,
+        "show_dots": true,
+        "show_arrows": true,
+        "enable_autoplay": true,
+        "cycle_speed": 5
+      }
+    },
+    "b43a67ed-8e3f-4de2-b27b-02d4fe5c5ef9": {
+      "type": "rich-text",
+      "settings": {
+        "content_width": "100",
+        "bg_color": "#fd5b2a",
+        "section_color": "#ffffff",
+        "rte_icon_width": 30,
+        "section_title": "BEST SELLER",
+        "subtitle": "",
+        "text": "",
+        "text_size": "large"
+      }
+    },
+    "626e7fae-fb85-4081-9bc2-4670cf152330": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-0": {
+          "type": "sku_block",
+          "settings": {}
+        },
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-1": {
+          "type": "product_title",
+          "settings": {}
+        },
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-2": {
+          "type": "product_price",
+          "settings": {}
+        },
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-3": {
+          "type": "product_options_block",
+          "settings": {
+            "show_product_swatches": true,
+            "use_variant_image_for_swatches": false
+          }
+        },
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-4": {
+          "type": "quantity_block",
+          "settings": {}
+        },
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-5": {
+          "type": "product_buttons",
+          "settings": {
+            "enable_payment_button": true
+          }
+        },
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-6": {
+          "type": "product_description",
+          "settings": {
+            "desc_display": "default"
+          }
+        },
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-7": {
+          "type": "show_share_buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-0",
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-1",
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-2",
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-3",
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-4",
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-5",
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-6",
+        "template--17710067745044__626e7fae-fb85-4081-9bc2-4670cf152330-16748232919c13e85e-7"
+      ],
+      "settings": {
+        "featured_product": "bubble-free-stickers-3",
+        "show_pick_an_option": false,
+        "enable_linked_options": false,
+        "description_display": "full",
+        "media_size": "medium",
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "thumbnails_type": "grid",
+        "thumbnails_size": 4
+      }
+    },
+    "1657286058c1450965": {
+      "type": "slideshow",
+      "blocks": {
+        "16572860581b16b0f9-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/space_horizontal.jpg",
+            "color_image_overlay": "",
+            "image_overlay_opacity": 40,
+            "text_color": "#ffffff",
+            "text_alignment": "center center",
+            "slide_title": "Image slide",
+            "subheading": "Tell your brand's story through images",
+            "button_style": "primary",
+            "button_label": "",
+            "button_link": "",
+            "button_style_2": "primary",
+            "button_label_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "16572860581b16b0f9-0"
+      ],
+      "settings": {
+        "slideshow_width": "full",
+        "slideshow_height": "medium",
+        "slideshow_mobile_height": "adapt",
+        "text_size": "medium",
+        "show_buttons": true,
+        "show_dots": true,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "removeBottomMargin": false
+      }
+    },
+    "5681ee5b-0bdd-477c-893c-d13f8c3c960c": {
+      "type": "rich-text",
+      "settings": {
+        "content_width": "100",
+        "bg_color": "",
+        "section_color": "",
+        "rte_icon": "shopify:\/\/shop_images\/discord-mark-blue.png",
+        "rte_icon_width": 100,
+        "section_title": "Join our discord!",
+        "subtitle": "",
+        "text": "<p>Join our Discord community where you can participate in various activities and be rewarded with free XRP, other crypto, and NFTs. We host regular giveaways for active members, calls for engaging conversation and games for some extra fun. Come join and be a part of the action!<br\/><br\/><a href=\"https:\/\/discord.com\/invite\/besDvuSRh8\" target=\"_blank\" title=\"https:\/\/discord.com\/invite\/besDvuSRh8\"><strong>JOIN HERE<\/strong><\/a><\/p>",
+        "text_size": "medium"
+      }
+    },
+    "1657286065cf1878aa": {
+      "type": "quotes",
+      "blocks": {
+        "165728606571ec63d1-0": {
+          "type": "quote",
+          "settings": {
+            "title": "Review heading",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "165728606571ec63d1-1": {
+          "type": "quote",
+          "settings": {
+            "title": "Review heading",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "165728606571ec63d1-2": {
+          "type": "quote",
+          "settings": {
+            "title": "Review heading",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "165728606571ec63d1-3": {
+          "type": "quote",
+          "settings": {
+            "title": "Review heading",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "165728606571ec63d1-4": {
+          "type": "quote",
+          "settings": {
+            "title": "Review heading",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        },
+        "2fe4791b-3e37-4cda-aaf5-d3dc3325c176": {
+          "type": "quote",
+          "settings": {
+            "title": "Review heading",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author's name"
+          }
+        }
+      },
+      "block_order": [
+        "165728606571ec63d1-0",
+        "165728606571ec63d1-1",
+        "165728606571ec63d1-2",
+        "165728606571ec63d1-3",
+        "165728606571ec63d1-4",
+        "2fe4791b-3e37-4cda-aaf5-d3dc3325c176"
+      ],
+      "settings": {
+        "image_style": "right",
+        "title": "Testimonials",
+        "subtitle": "Subtitle",
+        "title_color": "#232323",
+        "show_dots": true,
+        "show_arrows": true,
+        "enable_autoplay": true,
+        "cycle_speed": 5
+      }
+    },
+    "165728607359737ef9": {
+      "type": "index-accordion",
+      "blocks": {
+        "165728607323e4cf38-0": {
+          "type": "block",
+          "settings": {
+            "question": "How does the lottery work?",
+            "answer": "<p>The lottery on our platform utilizes XUMM, a secure and user-friendly wallet service, to facilitate the entry process. To participate, you will need to login to the lottery page using your XRP address and complete your profile information. Once logged in, you will be able to view the current lottery draw and the eligible NFTs that can be used to enter. Each NFT is assigned a specific number of entries, which is clearly displayed on the lottery page. Additionally, the total number of entries for the current draw will also be displayed, allowing you to keep track of your progress. <\/p>"
+          }
+        },
+        "165728607323e4cf38-1": {
+          "type": "block",
+          "settings": {
+            "question": "How do I enter the lottery?",
+            "answer": "<p>Participation in our lottery system is easy - simply own one or more of our NFTs! Each NFT is equal to a certain number of entries, as specified in the collection description. Additionally, we will be randomly selecting a collection each month and doubling the entry points for that collection, as a way to keep older collections trending and engaging for our community. Be sure to stay updated on our website and social media channels for announcements on the selected collection of the month. We are always looking for ways to reward and engage our community, and this is just one of the many ways we aim to do so.<\/p>"
+          }
+        },
+        "165728607323e4cf38-2": {
+          "type": "block",
+          "settings": {
+            "question": "How do I purchase an NFT?",
+            "answer": "<p>Answer text<\/p>"
+          }
+        },
+        "e99e9c48-a21e-4aff-aa70-58f7f8e540be": {
+          "type": "block",
+          "settings": {
+            "question": "Are there any restrictions on buying and selling NFTs?",
+            "answer": "<p>Answer text<\/p>"
+          }
+        },
+        "7c613d42-44f7-4ad3-9a2f-64ffc4926e09": {
+          "type": "block",
+          "settings": {
+            "question": "How can I claim my prize if I win the lottery?",
+            "answer": "<p>If you win the lottery, it depends on if you won a digital or physical item. Digital prizes will be credited to your XRP address. For physical prizes we'll be reaching out to you to confirm your shipping info. It is important to ensure that your profile information is up to date so that we can deliver your prize to the correct address and on time!<\/p>"
+          }
+        },
+        "1e17cce9-0de1-4a2f-ba1f-1fa5961d2307": {
+          "type": "block",
+          "settings": {
+            "question": "Can winners opt for the cost of physical prize in XRP?",
+            "answer": "<p>Depending on what the prize is, you are allowed to opt for the prize amount in XRP! Conditions for each prize will be listed on the lottery page.<\/p>"
+          }
+        },
+        "b3fe6143-786b-4de6-8f60-3a10b86f96cb": {
+          "type": "block",
+          "settings": {
+            "question": "Are the lotteries open worldwide?",
+            "answer": "<p>Yes they are! Though some countries do have regulations for online gambling, there's not much stopping us from sending physical OR digital prizes.<br\/><br\/>However, if a prize is being sent from the USA we cannot ship it to countries that are sanctioned by the USA (eg. North Korea, Cuba, Iran, etc.)<\/p>"
+          }
+        },
+        "9eafde05-eb2a-4aea-b6a8-61e8477969b0": {
+          "type": "block",
+          "settings": {
+            "question": "Question title",
+            "answer": "<p>Answer text<\/p>"
+          }
+        },
+        "0c30b1f9-a98d-45c9-b320-d9f58382ffce": {
+          "type": "block",
+          "settings": {
+            "question": "Question title",
+            "answer": "<p>Answer text<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165728607323e4cf38-0",
+        "165728607323e4cf38-1",
+        "165728607323e4cf38-2",
+        "e99e9c48-a21e-4aff-aa70-58f7f8e540be",
+        "7c613d42-44f7-4ad3-9a2f-64ffc4926e09",
+        "1e17cce9-0de1-4a2f-ba1f-1fa5961d2307",
+        "b3fe6143-786b-4de6-8f60-3a10b86f96cb",
+        "9eafde05-eb2a-4aea-b6a8-61e8477969b0",
+        "0c30b1f9-a98d-45c9-b320-d9f58382ffce"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BooseGumps_Futuristic_spaceship_which_is_modified_to_be_a_space_bce87dcf-18b0-42e1-a2f4-6b8866e1bf6f.png",
+        "content_side": "left",
+        "title": "FAQ",
+        "subtitle": "Learn more about us",
+        "text_color": "#ffffff",
+        "color_image_overlay": "#fd5b2a",
+        "image_overlay_opacity": 85
+      }
+    },
+    "165728608371b84ad5": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Blog posts",
+        "subtitle": "Subheading",
+        "blog": "",
+        "enable_carousel": false,
+        "enable_autoplay": false,
+        "cycle_speed": 5,
+        "show_dots": true,
+        "show_arrows": true,
+        "post_limit": 4,
+        "blogs_per_row": 4,
+        "blog_show_author": true,
+        "blog_show_date": true,
+        "show_view_all": false,
+        "button_text": "",
+        "button_style": "primary"
+      }
+    },
+    "165728609550d705f0": {
+      "type": "logo-bar",
+      "blocks": {
+        "16572860955765f270-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "16572860955765f270-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Venture_1.png",
+            "link": ""
+          }
+        },
+        "16572860955765f270-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xogecoin-ALp0pZDBnZioyzOA.webp",
+            "link": ""
+          }
+        },
+        "16572860955765f270-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/xxxx-AVLWL5PP6ocEJLJ0.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16572860955765f270-0",
+        "16572860955765f270-1",
+        "16572860955765f270-2",
+        "16572860955765f270-3"
+      ],
+      "settings": {
+        "title": "Logo list",
+        "subtitle": "",
+        "enable_carousel": true,
+        "show_dots": true,
+        "show_arrows": true,
+        "enable_autoplay": true,
+        "cycle_speed": 5,
+        "logos_count": 4,
+        "rows_count": 2,
+        "show_hover_opacity": false
+      }
+    },
+    "1657286107baf17a73": {
+      "type": "newsletter",
+      "settings": {
+        "section_bg_color": "",
+        "section_color": "",
+        "bg_image_opacity": 70,
+        "section_title": "Subscribe to our newsletter",
+        "subtitle": "",
+        "subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+        "button_style": "primary",
+        "showFormLabels": true,
+        "removeBottomMargin": false
+      }
+    },
+    "7af9c35d-4939-4f31-97f3-fd730b22dd2b": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "section_width": "page-width",
+        "title": "",
+        "subtitle": "",
+        "custom_liquid": "<style>\n  .marquee {\n    font-size: 50px;\n    margin: 50px 0;\n    font-family: 'Neue Haas Unica', sans-serif;\n    font-weight: bold;\n    position: left;\n    width: 100%;\n    overflow: hidden;\n    white-space: nowrap;\n  }\n\n  .marquee span {\n    display: inline-block;\n    animation: marquee 50s linear infinite;\n  }\n\n  @keyframes marquee {\n    0% {\n      transform: translateX(100%);\n    }\n    100% {\n      transform: translateX(-100%);\n    }\n  }\n<\/style>\n\n<div class=\"marquee\">\n  {% assign text = \"LEGAL NFT UTILITY. SUPPORTING THE ARTISTS. REWARDING THE HOLDERS. MASSIVE ROOM FOR GROWING AND DEVELOPMENT. TIGHT COMMUNITY OF ARTISTS AND DEDICATED COLELCTORS. \" %}\n  <span>{{ text | strip_html | strip }} {{ text | strip_html | strip }}<\/span>\n<\/div>"
+      }
+    },
+    "51299893-087c-4362-a469-a40deb80b153": {
+      "type": "index-custom-section",
+      "disabled": true,
+      "settings": {
+        "section_width": "page-width",
+        "title": "",
+        "subtitle": "",
+        "html": "<style>\n      .container {\n        position: relative;\n        height: 100px;\n        overflow: hidden;\n      }\n\n      .scrolling-text {\n        position: absolute;\n        width: max-content;\n        white-space: nowrap;\n        font-family: \"Neue Haas Unica\", sans-serif;\n        font-size: 75px;\n        font-weight: bold;\n        animation: scrolling-text 30s linear infinite;\n      }\n\n      @keyframes scrolling-text {\n        0% {\n          transform: translateX(0%);\n        }\n        100% {\n          transform: translateX(-100%);\n        }\n      }\n    <\/style>\n  \n\n  \n    <div class=\"container\">\n      <div class=\"scrolling-text\">\n        LEGAL NFT UTILITY. SUPPORTING THE ARTISTS. REWARDING THE HOLDERS. MASSIVE ROOM FOR GROWING AND DEVELOPMENT. TIGHT COMMUNITY OF ARTISTS AND DEDICATED COLLECTORS. \n        LEGAL NFT UTILITY. SUPPORTING THE ARTISTS. REWARDING THE HOLDERS. MASSIVE ROOM FOR GROWING AND DEVELOPMENT. TIGHT COMMUNITY OF ARTISTS AND DEDICATED COLLECTORS. \n      <\/div>\n    <\/div>"
+      }
+    }
+  },
+  "order": [
+    "1657285967afba02c0",
+    "c64b3c3e-3f4c-474c-ad21-e5d31c765f95",
+    "16572860256a3e457c",
+    "df41accd-d1f2-42a6-8158-46826ab4f3ff",
+    "7e51bc80-de20-43c6-b58e-f106c435906f",
+    "fdc6cdca-291c-479a-b0f6-e00bbbc29813",
+    "2c3358fa-464e-44d7-b388-01ffe105ee31",
+    "338b23f0-3d53-4738-b154-4ea86511d54f",
+    "1657286038f472cbf1",
+    "dd0c321e-64ed-4ead-ac8b-8239722862f5",
+    "1657285979c825b800",
+    "b43a67ed-8e3f-4de2-b27b-02d4fe5c5ef9",
+    "626e7fae-fb85-4081-9bc2-4670cf152330",
+    "1657286058c1450965",
+    "5681ee5b-0bdd-477c-893c-d13f8c3c960c",
+    "1657286065cf1878aa",
+    "165728607359737ef9",
+    "165728608371b84ad5",
+    "165728609550d705f0",
+    "1657286107baf17a73",
+    "7af9c35d-4939-4f31-97f3-fd730b22dd2b",
+    "51299893-087c-4362-a469-a40deb80b153"
+  ]
+}

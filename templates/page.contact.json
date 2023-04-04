@@ -1,0 +1,135 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 40,
+        "show_breadcrumbs": true,
+        "show_page_content": true
+      }
+    },
+    "16572891308791841f": {
+      "type": "index-icons-with-text",
+      "disabled": true,
+      "blocks": {
+        "1657289129853b7cba-0": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "scale-balanced",
+            "title": "FAIR SPLIT",
+            "content": "<p>50% of earnings for the artist, paid in XRP.<\/p>",
+            "link": ""
+          }
+        },
+        "1657289129853b7cba-2": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "paintbrush",
+            "title": "CREATIVE FREEDOM",
+            "content": "<p>Artists have a lot of freedom in creating the artworks. Just create what a MoonBoiii means to you!<\/p>",
+            "link": ""
+          }
+        },
+        "1657289129853b7cba-1": {
+          "type": "block",
+          "settings": {
+            "custom_icon": "star",
+            "title": "HASSLE FREE",
+            "content": "<p>Focus on the art, we'll take care of minting, marketing and holder rewarding.<\/p>",
+            "link": ""
+          }
+        },
+        "06899c71-c29e-4d96-95ca-0e29421e3fd6": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "custom_icon": "star",
+            "title": "Title",
+            "content": "<p>Content text<\/p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657289129853b7cba-0",
+        "1657289129853b7cba-2",
+        "1657289129853b7cba-1",
+        "06899c71-c29e-4d96-95ca-0e29421e3fd6"
+      ],
+      "settings": {
+        "title": "Why apply as artist?",
+        "subtitle": "join the movement",
+        "icon_color": "#000000"
+      }
+    },
+    "1657289136f16d3b8b": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "16572891364281e008-1": {
+          "type": "image",
+          "settings": {
+            "color_image_overlay": "#000000",
+            "image_overlay_opacity": 40,
+            "text_color": "#ffffff",
+            "text_alignment": "center center",
+            "slide_title": "Image slide",
+            "subheading": "Tell your brand's story through images",
+            "button_style": "primary",
+            "button_label": "",
+            "button_link": "",
+            "button_style_2": "primary",
+            "button_label_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "16572891364281e008-1"
+      ],
+      "settings": {
+        "slideshow_width": "full",
+        "slideshow_height": "adapt",
+        "slideshow_mobile_height": "adapt",
+        "text_size": "medium",
+        "show_buttons": true,
+        "show_dots": true,
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "removeBottomMargin": false
+      }
+    },
+    "16572891445ca8e851": {
+      "type": "page-contact",
+      "blocks": {
+        "8ddbb26d-b25f-4f01-81ef-188d92cb20fd": {
+          "type": "custom_row",
+          "settings": {
+            "field_name": "Subject",
+            "filed_type": "input",
+            "required_field": true
+          }
+        }
+      },
+      "block_order": [
+        "8ddbb26d-b25f-4f01-81ef-188d92cb20fd"
+      ],
+      "settings": {
+        "section_bg_color": "",
+        "section_color": "",
+        "bg_image_opacity": 70,
+        "section_title": "CONTACT US",
+        "subtitle": "",
+        "subheading": "",
+        "button_style": "primary"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16572891308791841f",
+    "1657289136f16d3b8b",
+    "16572891445ca8e851"
+  ]
+}
